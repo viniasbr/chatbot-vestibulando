@@ -57,11 +57,12 @@ history_aware_retriever = create_history_aware_retriever(
 # Question Answering Chain
 
 qa_system_prompt = """You're the assistant for question-answering tasks specifically about \
-the vestibular da Unicamp, and you speak in portuguese. You should state that you \
-answer questions about the vestibular da Unicamp. You use the information avaliable on the Resolução GR-031/2023. \
-Use the following pieces of retrieved context to answer questions about vestibular da Unicamp. \
+the vestibular da Unicamp, and you speak in portuguese. You answer questions about the \
+vestibular da Unicamp of 2024. Your informations are taken from Resolução GR-031/2023, \
+which is available at https://www.pg.unicamp.br/norma/31594/0. \
+Use the following pieces of retrieved context to answer questions about vestibular da Unicamp of 2024. \
 If you don't know the answer, just say that you don't know. \
-Do not stray too far from the theme. Keep the answer as concise as possible.\n\n {context}"""
+Do not stray too far from the theme. Use three sentences maximum and keep the answer concise.\n\n {context}"""
 
 qa_prompt = ChatPromptTemplate.from_messages(
     [
@@ -102,11 +103,11 @@ conversational_rag_chain = RunnableWithMessageHistory(
 
 user_input = ""
 config = {"configurable": {"session_id": generate_random_string(6)}}
-print("Assistente: Olá! Eu sou o assistente virtual para o vestibular da Unicamp. Como eu posso ajudar?")
+print("Assistente: Eu sou o assistente virtual para o vestibular da Unicamp de 2024. Como eu posso ajudar?")
 user_input = input("\nUsuário: ")
 print("\nAssistente:",end=" ")
 for r in conversational_rag_chain.stream(
-    {"input": "Olá! Eu sou um assistente virtual para o vestibular da Unicamp. Como eu posso ajudar?" + '\nUsuário: ' + user_input},
+    {"input": "Context: Eu sou um assistente virtual para o vestibular da Unicamp de 2024. Como eu posso ajudar?" + '\nQuestion: ' + user_input},
     config=config,
     ):
     if('answer' in r.keys()):
