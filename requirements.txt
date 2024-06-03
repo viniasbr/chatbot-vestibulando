@@ -2,4 +2,4 @@ langchain
 langchain-community
 langchain-chroma
 langchainhub
-bs4
+streamlit
