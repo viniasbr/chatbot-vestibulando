@@ -1,0 +1,54 @@
+
+Assistente: Eu sou o assistente virtual para o vestibular da Unicamp de 2024. Como eu posso ajudar?
+
+Usuário: 
+Assistente: Para o ano de 2024, são oferecidas 3340 vagas regulares para ingresso nos Cursos de Graduação da Unicamp. (Correto)
+
+Usuário: 
+Assistente: São oferecidas 49 vagas regulares para o Vestibular Indígena (VI) 2024, com a possibilidade de mais 81 vagas adicionais, conforme um edital a ser publicado. (Correto)
+
+Usuário: 
+Assistente: Os objetivos principais do Vestibular Unicamp 2024 são classificar e selecionar candidatos adequados ao perfil de estudantes desejado pela Unicamp, verificar o domínio do conhecimento desenvolvido pelos candidatos nas diversas formas de educação do Ensino Médio, e avaliar a aptidão e o potencial dos candidatos para o curso superior em que pretendem ingressar. (Correto)
+
+Usuário: 
+Assistente: Podem se inscrever no Vestibular Unicamp 2024 os candidatos que tenham concluído o Ensino Médio ou equivalente até o final de 2023, os candidatos que estejam cursando o Ensino Médio ou equivalente, e os candidatos portadores de diploma de curso superior. (Correto)
+
+Usuário: 
+Assistente: O período de inscrição para o Vestibular Unicamp 2024 é de 31 de julho a 31 de agosto de 2023, com prazo para pagamento do boleto bancário até o dia 08 de setembro de 2023. (Correto)
+
+Usuário: 
+Assistente: Os critérios de bonificação do Programa de Ação Afirmativa e Inclusão Social (PAAIS) consistem na participação facultativa para candidatos que tenham cursado o Ensino Fundamental II e/ou o Ensino Médio integralmente em escola pública brasileira, recebendo a bonificação especificada na Deliberação CONSU-A-032/2017, conforme indicado no Formulário de Inscrição. Os candidatos que tenham cursado algum período do Ensino Fundamental II e/ou Ensino Médio em instituição privada na condição de bolsista não podem ser contemplados com a bonificação do PAAIS no período correspondente. (Correto)
+
+Usuário: 
+Assistente: A validação da autodeclaração étnico-racial é realizada após a avaliação do fenótipo feita pela Comissão de Averiguação. A matrícula dos candidatos optantes pelas cotas étnico-raciais está condicionada à aprovação nessa avaliação, conforme estabelecido na Resolução GR-074/2020. (Correto)
+
+Usuário: 
+Assistente: O valor da taxa de inscrição para o Vestibular Unicamp 2024 não é especificado na Resolução GR-031/2023. Recomendo consultar a página da Comvest (www.comvest.unicamp.br) para obter informações atualizadas sobre a taxa de inscrição. (Falso)
+
+Usuário: 
+Assistente: As provas da 1ª fase do Vestibular Unicamp 2024 serão realizadas no dia 19 de novembro de 2023. Já as provas da 2ª fase estão agendadas para os dias 15 e 16 de janeiro de 2024. (Falso)
+
+Usuário: 
+Assistente: Os cursos que exigem provas de Habilidades Específicas no Vestibular Unicamp são Arquitetura e Urbanismo, Artes Cênicas, Artes Visuais e Dança. Essas provas são realizadas após a aprovação na 1ª fase do vestibular. (Primeira parte incompleta, segunda parte falsa)
+
+Usuário: 
+Assistente: Para participar do PAAIS no Vestibular Unicamp 2024, os(as) candidatos(as) devem ter cursado o Ensino Fundamental II e/ou o Ensino Médio integralmente em escola pública brasileira. Além disso, a participação no programa é facultativa e deve ser indicada no Formulário de Inscrição. Os candidatos(as) que tenham cursado algum período do Ensino Fundamental II e/ou Ensino Médio em instituição privada na condição de bolsista não podem ser contemplados(as) com a bonificação do PAAIS no período correspondente. (Correto)
+
+Usuário: 
+Assistente: Desculpe, mas as modalidades de ingresso descritas no Art. 1º da Resolução não foram fornecidas no trecho disponível para consulta. Para informações precisas sobre as modalidades de ingresso, recomendo consultar diretamente a Resolução GR-031/2023, disponível no site da Unicamp. (Incorreto)
+
+Usuário: 
+Assistente: As vagas regulares não preenchidas nos sistemas de ingresso II, III, IV e V serão transferidas para o Vestibular Unicamp 2024 para preencher as 3340 vagas oferecidas para ingresso na graduação. Essa transferência é feita de forma automática, sem a necessidade de reabertura de inscrições, conforme estabelecido na Resolução GR-031/2023. (Correto)
+
+Usuário: 
+Assistente: Caso um candidato não apresente os documentos comprobatórios exigidos pelo artigo 34 e estes não sejam legítimos, idôneos ou estejam em desacordo com o estabelecido na Resolução, a matrícula na Unicamp será negada conforme previsto na Resolução GR-031/2023. (Correto)
+
+Usuário: 
+Assistente: A porcentagem mínima de vagas reservadas para autodeclarados pretos e pardos é de 15% em cada curso, podendo chegar a até 27,2% das vagas, conforme estabelecido na Resolução GR-031/2023. (Correto)
+
+Usuário: 
+Assistente: Se precisar de mais alguma informação, estou à disposição. Até mais!
+
+Nota = 11.25/15
+
+Conclusão: A busca de informações é um ponto de falha, e o chatbot não consegue contabilizar informações que estão em lugares distintos.

@@ -1,0 +1,39 @@
+
+Assistente: Eu sou o assistente virtual para o vestibular da Unicamp de 2024. Como eu posso ajudar?
+
+Usuário: 
+Assistente: Para o curso de Engenharia Química no período integral, são oferecidas 60 vagas regulares e 45 vagas para Vagas VU. Já no período noturno, o curso de Engenharia Química oferece 40 vagas regulares e 29 vagas para Vagas VU. A diferença entre a quantidade de vagas ofertadas para o curso no período integral e noturno é de 20 vagas regulares e 16 vagas para Vagas VU. (Correto)
+
+Usuário: 
+Assistente: Para o curso de Medicina, a soma total das vagas destinadas à ampla concorrência é de 125 vagas, considerando o mínimo e o máximo. Já as vagas destinadas às políticas afirmativas somam 47 vagas, levando em conta o mínimo e o máximo. Não há vagas destinadas ao vestibular indígena para o curso de Medicina. Portanto, a soma total das vagas destinadas à ampla concorrência e políticas afirmativas é de 172 vagas. (Primeira parte parcialmente correto, segunda parte falsa)
+
+Usuário: 
+Assistente: No curso de Direito, a proporção de vagas reservadas para autodeclarados pretos e pardos varia de 25% a 37,2% conforme as regras de reserva de vagas. Já a reserva de vagas para estudantes de escolas públicas corresponde a 30% do total de vagas oferecidas no curso de Direito. Portanto, as vagas reservadas para autodeclarados pretos e pardos têm uma proporção maior em comparação com as vagas destinadas a estudantes de escolas públicas no curso de Direito. (Falso)
+
+Usuário: 
+Assistente: Para o curso de Artes Visuais, é necessário que o candidato demonstre habilidade mínima para o desenho e criação plástica, conhecimentos básicos sobre as artes visuais e sua história, além do interesse pelos estudos teóricos e práticos do curso. Já para o curso de Música, as provas de Habilidades Específicas avaliam o conhecimento de habilitação técnica específica em performance instrumental, teoria e percepção musical, de acordo com a modalidade escolhida pelo candidato. Portanto, as habilidades exigidas para Artes Visuais incluem desenho, criação plástica e conhecimento histórico, enquanto Música demanda habilidades específicas em performance instrumental, teoria e percepção musical. (Correto)
+
+Usuário: 
+Assistente: Os cursos de Ciências Exatas oferecem um total de 330 vagas, incluindo as vagas regulares e as destinadas às políticas afirmativas. Já os cursos de Ciências Humanas disponibilizam um total de 225 vagas, considerando também as vagas regulares e as destinadas às políticas afirmativas. Portanto, o número total de vagas oferecidas para cursos de Ciências Exatas é maior em comparação com o número total de vagas para cursos de Ciências Humanas. (Falso)
+
+Usuário: 
+Assistente: No curso de Enfermagem, são reservadas entre 5% e 8% do total de vagas para candidatos indígenas, enquanto no curso de Odontologia a reserva varia de 5% a 10% do total de vagas. Portanto, a diferença está na faixa de reserva de vagas, que é um pouco maior para o curso de Odontologia em relação ao curso de Enfermagem para candidatos indígenas. (Falso)
+
+Usuário: 
+Assistente: Os critérios de bonificação do PAAIS preveem um acréscimo de 60 pontos na nota final do candidato que estudou integralmente em escolas públicas e se autodeclarou pardo. Dessa forma, um candidato nessas condições terá 60 pontos adicionados à sua nota final no processo seletivo da Unicamp, contribuindo para sua pontuação final. (Correto)
+
+Usuário: 
+Assistente: Para o curso de Engenharia Civil, são oferecidas entre 40 e 50 vagas para ampla concorrência, enquanto para políticas afirmativas são reservadas de 12 a 22 vagas. Já para o curso de Engenharia Mecânica, a distribuição é de 40 a 50 vagas para ampla concorrência e de 12 a 22 vagas para políticas afirmativas. Portanto, a distribuição de vagas entre ampla concorrência e políticas afirmativas é semelhante para os cursos de Engenharia Civil e Engenharia Mecânica. (Parcialmente correto)
+
+Usuário: 
+Assistente: A nota mínima exigida na 1ª fase para o curso de Direito é de 200 pontos, enquanto para o curso de Ciências Econômicas é de 175 pontos. Portanto, a diferença entre a nota mínima exigida na 1ª fase para Direito e Ciências Econômicas é de 25 pontos. (Falso)
+
+Usuário: 
+Assistente: Para o curso de Arquitetura e Urbanismo, as habilidades específicas exigidas são a manipulação de elementos gráficos, sensibilidade, inventividade e interesse pelos ambientes e lugares criados pela inventividade humana. Já para o curso de Artes Cênicas, as habilidades específicas exigidas são o conhecimento das Artes Cênicas, capacidade criativa e reflexiva, além da execução de uma cena teatral. Portanto, as exigências para Arquitetura e Urbanismo estão mais relacionadas à manipulação de elementos gráficos e planejamento urbano, enquanto para Artes Cênicas estão mais voltadas para a expressão artística e teatral. (Correto)
+
+Usuário: 
+Assistente: Se precisar de mais alguma informação, estou por aqui para ajudar. Até mais!
+
+Nota = 4.75/10
+
+Conclusão: Obter dados distantes é um ponto de dificuldade, e a capacidade de operar em cima de dados é limitada. Pedir informações sobre coisas que não estão presentes ou não existem produz alucinações de dados falsos.

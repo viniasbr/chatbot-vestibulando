@@ -20,7 +20,13 @@ from langchain.chains import create_retrieval_chain, create_history_aware_retrie
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 
-os.environ["OPENAI_API_KEY"] = getpass.getpass(prompt = "Chave de API da OpenAI: ")
+with open('.env', 'r') as file:
+    data = file.read()
+
+os.environ["OPENAI_API_KEY"] = data #this is to make testing easier
+#os.environ["OPENAI_API_KEY"] = getpass.getpass(prompt = "Chave de API da OpenAI: ")
+
+
 print("\n",end="")
 
 model = ChatOpenAI(model="gpt-3.5-turbo")

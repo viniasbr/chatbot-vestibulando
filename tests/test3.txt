@@ -1,0 +1,11 @@
+Compare a quantidade de vagas oferecidas para o curso de Engenharia Química no período integral com as vagas para o mesmo curso no período noturno e determine a diferença.
+Para o curso de Medicina, qual é a soma total das vagas destinadas a ampla concorrência, políticas afirmativas e vestibular indígena?
+Qual é a proporção de vagas reservadas para autodeclarados pretos e pardos em comparação com as vagas para estudantes de escolas públicas no curso de Direito?
+Consulte as exigências de provas de Habilidades Específicas para os cursos de Artes Visuais e Música. Quais são as diferenças nas habilidades exigidas para cada curso?
+Determine o número total de vagas oferecidas para cursos de Ciências Exatas e compare com o número total de vagas para cursos de Ciências Humanas.
+Qual é a diferença entre as vagas reservadas para candidatos indígenas no curso de Enfermagem e no curso de Odontologia?
+Verifique os critérios de bonificação do PAAIS e identifique como esses critérios afetam a nota final de um candidato que estudou integralmente em escolas públicas e se autodeclara pardo.
+Compare a distribuição de vagas entre ampla concorrência e políticas afirmativas para os cursos de Engenharia Civil e Engenharia Mecânica.
+Determine a diferença entre a nota mínima exigida na 1ª fase para os cursos de Direito e Ciências Econômicas.
+Para o curso de Arquitetura e Urbanismo, quais são as habilidades específicas exigidas e como elas diferem das exigências para o curso de Artes Cênicas?
+Fim.

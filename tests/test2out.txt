@@ -1,0 +1,54 @@
+
+Assistente: Eu sou o assistente virtual para o vestibular da Unicamp de 2024. Como eu posso ajudar?
+
+Usuário: 
+Assistente: A pontuação mínima necessária na 1ª fase para se classificar para a 2ª fase no curso de Medicina da Unicamp não é especificada no contexto fornecido. Eu não tenho essa informação. (Correto)
+
+Usuário: 
+Assistente: Para o curso de Engenharia Mecânica no período noturno da Unicamp em 2024, estão disponíveis um total de 55 vagas, sendo 37 vagas para a concorrência ampla e entre 8 e 15 vagas para a reserva de vagas para candidatos de escola pública (PP). (Falso)
+
+Usuário: 
+Assistente: A média de vagas reservadas para candidatos autodeclarados pretos e pardos nos cursos de Ciências Humanas na Unicamp em 2024 é de 15% das vagas regulares em cada curso, podendo chegar até 27,2% das vagas caso haja candidatos de 1ª opção que atendam aos critérios de Nota Mínima de Opção (NMO) do respectivo curso. (Parcialmente Correto)
+
+Usuário: 
+Assistente: Para o curso de Arquitetura e Urbanismo no período integral da Unicamp em 2024, estão destinadas um total de 60 vagas, sendo 48 vagas para a concorrência ampla e entre 12 e 21 vagas para a reserva de vagas para candidatos de escola pública (PP). (Falso)
+
+Usuário: 
+Assistente: No curso de Engenharia Civil da Unicamp em 2024, a porcentagem de vagas reservadas para estudantes de escolas públicas varia de 15% a 27,2%, dependendo do número de candidatos de 1ª opção que atendam aos critérios de Nota Mínima de Opção (NMO) do curso. (Falso)
+
+Usuário: 
+Assistente: Os cursos que possuem vagas exclusivas para candidatos indígenas na Unicamp em 2024 são: Ciências Biológicas (Integral) e Ciências Sociais (Noturno). São oferecidas um total de 6 vagas exclusivas para candidatos indígenas, sendo 2 vagas para cada um desses cursos. (Falso)
+
+Usuário: 
+Assistente: Para o curso de Engenharia Elétrica na Unicamp em 2024, o peso da prova de Matemática na 2ª fase é 3, o que significa que essa prova tem um peso maior na composição da nota final do candidato. (Correto)
+
+Usuário: 
+Assistente: Para o curso de Direito na Unicamp em 2024, os requisitos de nota mínima para a prova de Língua Portuguesa e Literaturas de Língua Portuguesa na 1ª fase são: 2,0 pontos como Nota Mínima de Opção (NMO) e 4,0 pontos como Nota Mínima de Corte (NMC). (Falso)
+
+Usuário: 
+Assistente: O curso de Ciências Biológicas no período integral oferece um total de 45 vagas regulares e 33 vagas para candidatos da VU (Vagas Universitárias) na Unicamp em 2024. (Correto)
+
+Usuário: 
+Assistente: Para o curso de Enfermagem no período noturno na Unicamp em 2024, são disponibilizadas 15 vagas regulares, sendo 4 delas reservadas para autodeclarados pretos e pardos, de acordo com a política de cotas. (Falso)
+
+Usuário: 
+Assistente: Os cursos que exigem a realização de provas de Habilidades Específicas na Unicamp em 2024 são Arquitetura e Urbanismo, Artes Cênicas, Artes Visuais e Dança. Para o curso de Artes Cênicas, as habilidades avaliadas incluem a capacidade criativa e reflexiva, a articulação de conhecimentos sobre Artes Cênicas, a relação com o aprendizado em si, a execução de uma cena teatral e a conexão de conhecimentos culturais e artísticos com a formação profissional. (Incompleto)
+
+Usuário: 
+Assistente: Desculpe, mas as informações fornecidas não incluem detalhes sobre a distribuição de vagas para o curso de Administração entre os diferentes campi da Unicamp em 2024. (Falso)
+
+Usuário: 
+Assistente: A nota mínima requerida na prova de Ciências da Natureza e suas Tecnologias para a classificação na 1ª fase no curso de Farmácia da Unicamp em 2024 não é especificamente mencionada nas informações fornecidas. (Correto)
+
+Usuário: 
+Assistente: O curso de Física na Unicamp em 2024 possui um total de 40 vagas, sendo distribuídas da seguinte forma: 17 a 22 vagas para ampla concorrência e de 6 a 11 vagas para políticas afirmativas. (Correto)
+
+Usuário: 
+Assistente: Os cursos que possuem a maior porcentagem de vagas reservadas para estudantes de escolas públicas na Unicamp em 2024 são os cursos de Licenciatura em Ciências Biológicas, com 39,6% das vagas, e Licenciatura em Matemática, com 39,1% das vagas. (Falso)
+
+Usuário: 
+Assistente: Se precisar de mais alguma informação, estarei por aqui. Até mais!
+
+Nota: 5.5/15
+
+Conclusão: Perguntar sobre algo que não existe ou não está presente na base de dados gera alucinação de dados falsos.

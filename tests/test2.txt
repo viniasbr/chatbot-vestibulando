@@ -1,0 +1,16 @@
+Qual é a pontuação mínima necessária na 1ª fase para se classificar para a 2ª fase para o curso de Medicina?
+Quantas vagas estão disponíveis para o curso de Engenharia Mecânica no período noturno?
+Qual é a média de vagas reservadas para candidatos autodeclarados pretos e pardos nos cursos de Ciências Humanas?
+Quantas vagas estão destinadas ao curso de Arquitetura e Urbanismo no período integral?
+Qual é a porcentagem de vagas reservadas para estudantes de escolas públicas no curso de Engenharia Civil?
+Quais cursos possuem vagas exclusivas para candidatos indígenas e quantas são essas vagas?
+Qual é o peso das provas de Matemática na 2ª fase para o curso de Engenharia Elétrica?
+Quais são os requisitos de nota mínima para a prova de Língua Portuguesa e Literaturas de Língua Portuguesa na 1ª fase para o curso de Direito?
+Qual é o total de vagas oferecidas para o curso de Ciências Biológicas no período integral?
+Quantas vagas são disponibilizadas para o curso de Enfermagem no período noturno e quantas delas são reservadas para autodeclarados pretos e pardos?
+Quais cursos exigem a realização de provas de Habilidades Específicas e quais são essas habilidades?
+Como são distribuídas as vagas para o curso de Administração entre os diferentes campi da Unicamp?
+Qual é a nota mínima requerida na prova de Ciências da Natureza e suas Tecnologias para a classificação na 1ª fase para o curso de Farmácia?
+Quantas vagas são destinadas ao curso de Física e como são distribuídas entre ampla concorrência e políticas afirmativas?
+Quais cursos possuem a maior porcentagem de vagas reservadas para estudantes de escolas públicas?
+Fim.
