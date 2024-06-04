@@ -1,4 +1,3 @@
-import getpass
 import os
 
 from langchain_community.document_loaders import TextLoader
@@ -6,7 +5,10 @@ from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_chroma import Chroma
 from langchain_openai import OpenAIEmbeddings
 
-os.environ["OPENAI_API_KEY"] = getpass.getpass()
+with open('.env', 'r') as file:
+    data = file.read()
+
+os.environ["OPENAI_API_KEY"] = data
 
 #Loading already parsed data, extracted from https://www.pg.unicamp.br/norma/31594/0
 
