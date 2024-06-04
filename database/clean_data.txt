@@ -476,169 +476,169 @@ Art. 55 Esta Resolução entra em vigor na data de sua publicação, ficando rev
 
 ANEXO I
 
-Curso: Administração (Noturno);Total Vagas Regulares: 180;Total Vagas VU: 143;Ampla Concorrência (Mínimo): 94;Ampla Concorrência (Máximo): 116;Reserva de Vagas para PP (Mínimo 15%*): 27;Reserva de Vagas para PP (Máximo 27,2%*): 49
+Curso: Administração (Noturno);Total Vagas Regulares: 180;Total Vagas Vestibular Unicamp: 143;Ampla Concorrência (Mínimo): 94;Ampla Concorrência (Máximo): 116;Reserva de Vagas para PP (Mínimo 15%*): 27;Reserva de Vagas para PP (Máximo 27,2%*): 49
 
-Curso: Administração Pública (Noturno);Total Vagas Regulares: 60;Total Vagas VU: 47;Ampla Concorrência (Mínimo): 31;Ampla Concorrência (Máximo): 38;Reserva de Vagas para PP (Mínimo 15%*): 9;Reserva de Vagas para PP (Máximo 27,2%*): 16
+Curso: Administração Pública (Noturno);Total Vagas Regulares: 60;Total Vagas Vestibular Unicamp: 47;Ampla Concorrência (Mínimo): 31;Ampla Concorrência (Máximo): 38;Reserva de Vagas para PP (Mínimo 15%*): 9;Reserva de Vagas para PP (Máximo 27,2%*): 16
 
-Curso: Arquitetura e Urbanismo (Noturno);Total Vagas Regulares: 30;Total Vagas VU: 24;Ampla Concorrência (Mínimo): 16;Ampla Concorrência (Máximo): 19;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 8
+Curso: Arquitetura e Urbanismo (Noturno);Total Vagas Regulares: 30;Total Vagas Vestibular Unicamp: 24;Ampla Concorrência (Mínimo): 16;Ampla Concorrência (Máximo): 19;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 8
 
-Curso: Artes Cênicas (Integral)**;Total Vagas Regulares: 25;Total Vagas VU: 25;Ampla Concorrência (Mínimo): 16;Ampla Concorrência (Máximo): 19;Reserva de Vagas para PP (Mínimo 15%*): 6;Reserva de Vagas para PP (Máximo 27,2%*): 9
+Curso: Artes Cênicas (Integral)**;Total Vagas Regulares: 25;Total Vagas Vestibular Unicamp: 25;Ampla Concorrência (Mínimo): 16;Ampla Concorrência (Máximo): 19;Reserva de Vagas para PP (Mínimo 15%*): 6;Reserva de Vagas para PP (Máximo 27,2%*): 9
 
-Curso: Artes Visuais (Integral)**;Total Vagas Regulares: 30;Total Vagas VU: 30;Ampla Concorrência (Mínimo): 19;Ampla Concorrência (Máximo): 22;Reserva de Vagas para PP (Mínimo 15%*): 8;Reserva de Vagas para PP (Máximo 27,2%*): 11
+Curso: Artes Visuais (Integral)**;Total Vagas Regulares: 30;Total Vagas Vestibular Unicamp: 30;Ampla Concorrência (Mínimo): 19;Ampla Concorrência (Máximo): 22;Reserva de Vagas para PP (Mínimo 15%*): 8;Reserva de Vagas para PP (Máximo 27,2%*): 11
 
-Curso: Ciência da Computação (Noturno);Total Vagas Regulares: 50;Total Vagas VU: 40;Ampla Concorrência (Mínimo): 26;Ampla Concorrência (Máximo): 32;Reserva de Vagas para PP (Mínimo 15%*): 8;Reserva de Vagas para PP (Máximo 27,2%*): 14
+Curso: Ciência da Computação (Noturno);Total Vagas Regulares: 50;Total Vagas Vestibular Unicamp: 40;Ampla Concorrência (Mínimo): 26;Ampla Concorrência (Máximo): 32;Reserva de Vagas para PP (Mínimo 15%*): 8;Reserva de Vagas para PP (Máximo 27,2%*): 14
 
-Curso: Ciências Biológicas - Licenciatura (Noturno);Total Vagas Regulares: 45;Total Vagas VU: 33;Ampla Concorrência (Mínimo): 21;Ampla Concorrência (Máximo): 26;Reserva de Vagas para PP (Mínimo 15%*): 7;Reserva de Vagas para PP (Máximo 27,2%*): 12
+Curso: Ciências Biológicas - Licenciatura (Noturno);Total Vagas Regulares: 45;Total Vagas Vestibular Unicamp: 33;Ampla Concorrência (Mínimo): 21;Ampla Concorrência (Máximo): 26;Reserva de Vagas para PP (Mínimo 15%*): 7;Reserva de Vagas para PP (Máximo 27,2%*): 12
 
-Curso: Ciências Biológicas (Integral);Total Vagas Regulares: 45;Total Vagas VU: 33;Ampla Concorrência (Mínimo): 21;Ampla Concorrência (Máximo): 26;Reserva de Vagas para PP (Mínimo 15%*): 7;Reserva de Vagas para PP (Máximo 27,2%*): 12
+Curso: Ciências Biológicas (Integral);Total Vagas Regulares: 45;Total Vagas Vestibular Unicamp: 33;Ampla Concorrência (Mínimo): 21;Ampla Concorrência (Máximo): 26;Reserva de Vagas para PP (Mínimo 15%*): 7;Reserva de Vagas para PP (Máximo 27,2%*): 12
 
-Curso: Ciências do Esporte (Integral);Total Vagas Regulares: 60;Total Vagas VU: 46;Ampla Concorrência (Mínimo): 30;Ampla Concorrência (Máximo): 37;Reserva de Vagas para PP (Mínimo 15%*): 9;Reserva de Vagas para PP (Máximo 27,2%*): 16
+Curso: Ciências do Esporte (Integral);Total Vagas Regulares: 60;Total Vagas Vestibular Unicamp: 46;Ampla Concorrência (Mínimo): 30;Ampla Concorrência (Máximo): 37;Reserva de Vagas para PP (Mínimo 15%*): 9;Reserva de Vagas para PP (Máximo 27,2%*): 16
 
-Curso: Ciências Econômicas (Integral);Total Vagas Regulares: 70;Total Vagas VU: 56;Ampla Concorrência (Mínimo): 37;Ampla Concorrência (Máximo): 45;Reserva de Vagas para PP (Mínimo 15%*): 11;Reserva de Vagas para PP (Máximo 27,2%*): 19
+Curso: Ciências Econômicas (Integral);Total Vagas Regulares: 70;Total Vagas Vestibular Unicamp: 56;Ampla Concorrência (Mínimo): 37;Ampla Concorrência (Máximo): 45;Reserva de Vagas para PP (Mínimo 15%*): 11;Reserva de Vagas para PP (Máximo 27,2%*): 19
 
-Curso: Ciências Econômicas (Noturno);Total Vagas Regulares: 35;Total Vagas VU: 28;Ampla Concorrência (Mínimo): 18;Ampla Concorrência (Máximo): 23;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 10
+Curso: Ciências Econômicas (Noturno);Total Vagas Regulares: 35;Total Vagas Vestibular Unicamp: 28;Ampla Concorrência (Mínimo): 18;Ampla Concorrência (Máximo): 23;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 10
 
-Curso: Ciências Sociais (Integral);Total Vagas Regulares: 55;Total Vagas VU: 44;Ampla Concorrência (Mínimo): 29;Ampla Concorrência (Máximo): 36;Reserva de Vagas para PP (Mínimo 15%*): 8;Reserva de Vagas para PP (Máximo 27,2%*): 15
+Curso: Ciências Sociais (Integral);Total Vagas Regulares: 55;Total Vagas Vestibular Unicamp: 44;Ampla Concorrência (Mínimo): 29;Ampla Concorrência (Máximo): 36;Reserva de Vagas para PP (Mínimo 15%*): 8;Reserva de Vagas para PP (Máximo 27,2%*): 15
 
-Curso: Ciências Sociais (Noturno);Total Vagas Regulares: 55;Total Vagas VU: 44;Ampla Concorrência (Mínimo): 29;Ampla Concorrência (Máximo): 36;Reserva de Vagas para PP (Mínimo 15%*): 8;Reserva de Vagas para PP (Máximo 27,2%*): 15
+Curso: Ciências Sociais (Noturno);Total Vagas Regulares: 55;Total Vagas Vestibular Unicamp: 44;Ampla Concorrência (Mínimo): 29;Ampla Concorrência (Máximo): 36;Reserva de Vagas para PP (Mínimo 15%*): 8;Reserva de Vagas para PP (Máximo 27,2%*): 15
 
-Curso: Comunicacão Social - Midialogia (Integral);Total Vagas Regulares: 30;Total Vagas VU: 24;Ampla Concorrência (Mínimo): 16;Ampla Concorrência (Máximo): 19;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 8
+Curso: Comunicacão Social - Midialogia (Integral);Total Vagas Regulares: 30;Total Vagas Vestibular Unicamp: 24;Ampla Concorrência (Mínimo): 16;Ampla Concorrência (Máximo): 19;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 8
 
-Curso: Curso 51: Engenharia Física/ Física/ Física Médica e Biomédica/ Matemática/ Matemática Aplicada e Computacional (Integral);Total Vagas Regulares: 155;Total Vagas VU: 109;Ampla Concorrência (Mínimo): 67;Ampla Concorrência (Máximo): 86;Reserva de Vagas para PP (Mínimo 15%*): 23;Reserva de Vagas para PP (Máximo 27,2%*): 42
+Curso: Curso 51: Engenharia Física/ Física/ Física Médica e Biomédica/ Matemática/ Matemática Aplicada e Computacional (Integral);Total Vagas Regulares: 155;Total Vagas Vestibular Unicamp: 109;Ampla Concorrência (Mínimo): 67;Ampla Concorrência (Máximo): 86;Reserva de Vagas para PP (Mínimo 15%*): 23;Reserva de Vagas para PP (Máximo 27,2%*): 42
 
-Curso: Dança (Integral)**;Total Vagas Regulares: 25;Total Vagas VU: 25;Ampla Concorrência (Mínimo): 16;Ampla Concorrência (Máximo): 19;Reserva de Vagas para PP (Mínimo 15%*): 6;Reserva de Vagas para PP (Máximo 27,2%*): 9
+Curso: Dança (Integral)**;Total Vagas Regulares: 25;Total Vagas Vestibular Unicamp: 25;Ampla Concorrência (Mínimo): 16;Ampla Concorrência (Máximo): 19;Reserva de Vagas para PP (Mínimo 15%*): 6;Reserva de Vagas para PP (Máximo 27,2%*): 9
 
-Curso: Educação Física (Integral);Total Vagas Regulares: 50;Total Vagas VU: 40;Ampla Concorrência (Mínimo): 26;Ampla Concorrência (Máximo): 32;Reserva de Vagas para PP (Mínimo 15%*): 8;Reserva de Vagas para PP (Máximo 27,2%*): 14
+Curso: Educação Física (Integral);Total Vagas Regulares: 50;Total Vagas Vestibular Unicamp: 40;Ampla Concorrência (Mínimo): 26;Ampla Concorrência (Máximo): 32;Reserva de Vagas para PP (Mínimo 15%*): 8;Reserva de Vagas para PP (Máximo 27,2%*): 14
 
-Curso: Educação Física (Noturno);Total Vagas Regulares: 50;Total Vagas VU: 40;Ampla Concorrência (Mínimo): 26;Ampla Concorrência (Máximo): 32;Reserva de Vagas para PP (Mínimo 15%*): 8;Reserva de Vagas para PP (Máximo 27,2%*): 14
+Curso: Educação Física (Noturno);Total Vagas Regulares: 50;Total Vagas Vestibular Unicamp: 40;Ampla Concorrência (Mínimo): 26;Ampla Concorrência (Máximo): 32;Reserva de Vagas para PP (Mínimo 15%*): 8;Reserva de Vagas para PP (Máximo 27,2%*): 14
 
-Curso: Enfermagem (Integral);Total Vagas Regulares: 40;Total Vagas VU: 30;Ampla Concorrência (Mínimo): 19;Ampla Concorrência (Máximo): 24;Reserva de Vagas para PP (Mínimo 15%*): 6;Reserva de Vagas para PP (Máximo 27,2%*): 11
+Curso: Enfermagem (Integral);Total Vagas Regulares: 40;Total Vagas Vestibular Unicamp: 30;Ampla Concorrência (Mínimo): 19;Ampla Concorrência (Máximo): 24;Reserva de Vagas para PP (Mínimo 15%*): 6;Reserva de Vagas para PP (Máximo 27,2%*): 11
 
-Curso: Engenharia Agrícola (Integral);Total Vagas Regulares: 70;Total Vagas VU: 56;Ampla Concorrência (Mínimo): 37;Ampla Concorrência (Máximo): 45;Reserva de Vagas para PP (Mínimo 15%*): 11;Reserva de Vagas para PP (Máximo 27,2%*): 19
+Curso: Engenharia Agrícola (Integral);Total Vagas Regulares: 70;Total Vagas Vestibular Unicamp: 56;Ampla Concorrência (Mínimo): 37;Ampla Concorrência (Máximo): 45;Reserva de Vagas para PP (Mínimo 15%*): 11;Reserva de Vagas para PP (Máximo 27,2%*): 19
 
-Curso: Engenharia Ambiental (Noturno);Total Vagas Regulares: 60;Total Vagas VU: 44;Ampla Concorrência (Mínimo): 28;Ampla Concorrência (Máximo): 35;Reserva de Vagas para PP (Mínimo 15%*): 9;Reserva de Vagas para PP (Máximo 27,2%*): 16
+Curso: Engenharia Ambiental (Noturno);Total Vagas Regulares: 60;Total Vagas Vestibular Unicamp: 44;Ampla Concorrência (Mínimo): 28;Ampla Concorrência (Máximo): 35;Reserva de Vagas para PP (Mínimo 15%*): 9;Reserva de Vagas para PP (Máximo 27,2%*): 16
 
-Curso: Engenharia Civil (Integral);Total Vagas Regulares: 80;Total Vagas VU: 62;Ampla Concorrência (Mínimo): 40;Ampla Concorrência (Máximo): 50;Reserva de Vagas para PP (Mínimo 15%*): 12;Reserva de Vagas para PP (Máximo 27,2%*): 22
+Curso: Engenharia Civil (Integral);Total Vagas Regulares: 80;Total Vagas Vestibular Unicamp: 62;Ampla Concorrência (Mínimo): 40;Ampla Concorrência (Máximo): 50;Reserva de Vagas para PP (Mínimo 15%*): 12;Reserva de Vagas para PP (Máximo 27,2%*): 22
 
-Curso: Engenharia de Alimentos (Integral);Total Vagas Regulares: 80;Total Vagas VU: 60;Ampla Concorrência (Mínimo): 38;Ampla Concorrência (Máximo): 48;Reserva de Vagas para PP (Mínimo 15%*): 12;Reserva de Vagas para PP (Máximo 27,2%*): 22
+Curso: Engenharia de Alimentos (Integral);Total Vagas Regulares: 80;Total Vagas Vestibular Unicamp: 60;Ampla Concorrência (Mínimo): 38;Ampla Concorrência (Máximo): 48;Reserva de Vagas para PP (Mínimo 15%*): 12;Reserva de Vagas para PP (Máximo 27,2%*): 22
 
-Curso: Engenharia de Alimentos (Noturno);Total Vagas Regulares: 35;Total Vagas VU: 24;Ampla Concorrência (Mínimo): 14;Ampla Concorrência (Máximo): 19;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 10
+Curso: Engenharia de Alimentos (Noturno);Total Vagas Regulares: 35;Total Vagas Vestibular Unicamp: 24;Ampla Concorrência (Mínimo): 14;Ampla Concorrência (Máximo): 19;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 10
 
-Curso: Engenharia de Computação (Integral);Total Vagas Regulares: 90;Total Vagas VU: 63;Ampla Concorrência (Mínimo): 39;Ampla Concorrência (Máximo): 49;Reserva de Vagas para PP (Mínimo 15%*): 14;Reserva de Vagas para PP (Máximo 27,2%*): 24
+Curso: Engenharia de Computação (Integral);Total Vagas Regulares: 90;Total Vagas Vestibular Unicamp: 63;Ampla Concorrência (Mínimo): 39;Ampla Concorrência (Máximo): 49;Reserva de Vagas para PP (Mínimo 15%*): 14;Reserva de Vagas para PP (Máximo 27,2%*): 24
 
-Curso: Engenharia de Controle e Automação (Noturno);Total Vagas Regulares: 50;Total Vagas VU: 33;Ampla Concorrência (Mínimo): 19;Ampla Concorrência (Máximo): 25;Reserva de Vagas para PP (Mínimo 15%*): 8;Reserva de Vagas para PP (Máximo 27,2%*): 14
+Curso: Engenharia de Controle e Automação (Noturno);Total Vagas Regulares: 50;Total Vagas Vestibular Unicamp: 33;Ampla Concorrência (Mínimo): 19;Ampla Concorrência (Máximo): 25;Reserva de Vagas para PP (Mínimo 15%*): 8;Reserva de Vagas para PP (Máximo 27,2%*): 14
 
-Curso: Engenharia de Manufatura (Integral);Total Vagas Regulares: 60;Total Vagas VU: 45;Ampla Concorrência (Mínimo): 29;Ampla Concorrência (Máximo): 36;Reserva de Vagas para PP (Mínimo 15%*): 9;Reserva de Vagas para PP (Máximo 27,2%*): 16
+Curso: Engenharia de Manufatura (Integral);Total Vagas Regulares: 60;Total Vagas Vestibular Unicamp: 45;Ampla Concorrência (Mínimo): 29;Ampla Concorrência (Máximo): 36;Reserva de Vagas para PP (Mínimo 15%*): 9;Reserva de Vagas para PP (Máximo 27,2%*): 16
 
-Curso: Engenharia de Produção (Integral);Total Vagas Regulares: 60;Total Vagas VU: 45;Ampla Concorrência (Mínimo): 29;Ampla Concorrência (Máximo): 36;Reserva de Vagas para PP (Mínimo 15%*): 9;Reserva de Vagas para PP (Máximo 27,2%*): 16
+Curso: Engenharia de Produção (Integral);Total Vagas Regulares: 60;Total Vagas Vestibular Unicamp: 45;Ampla Concorrência (Mínimo): 29;Ampla Concorrência (Máximo): 36;Reserva de Vagas para PP (Mínimo 15%*): 9;Reserva de Vagas para PP (Máximo 27,2%*): 16
 
-Curso: Engenharia de Telecomunicações (Integral);Total Vagas Regulares: 55;Total Vagas VU: 37;Ampla Concorrência (Mínimo): 22;Ampla Concorrência (Máximo): 29;Reserva de Vagas para PP (Mínimo 15%*): 8;Reserva de Vagas para PP (Máximo 27,2%*): 15
+Curso: Engenharia de Telecomunicações (Integral);Total Vagas Regulares: 55;Total Vagas Vestibular Unicamp: 37;Ampla Concorrência (Mínimo): 22;Ampla Concorrência (Máximo): 29;Reserva de Vagas para PP (Mínimo 15%*): 8;Reserva de Vagas para PP (Máximo 27,2%*): 15
 
-Curso: Engenharia de Transportes (Noturno);Total Vagas Regulares: 55;Total Vagas VU: 37;Ampla Concorrência (Mínimo): 22;Ampla Concorrência (Máximo): 29;Reserva de Vagas para PP (Mínimo 15%*): 8;Reserva de Vagas para PP (Máximo 27,2%*): 15
+Curso: Engenharia de Transportes (Noturno);Total Vagas Regulares: 55;Total Vagas Vestibular Unicamp: 37;Ampla Concorrência (Mínimo): 22;Ampla Concorrência (Máximo): 29;Reserva de Vagas para PP (Mínimo 15%*): 8;Reserva de Vagas para PP (Máximo 27,2%*): 15
 
-Curso: Engenharia Elétrica (Integral);Total Vagas Regulares: 70;Total Vagas VU: 49;Ampla Concorrência (Mínimo): 30;Ampla Concorrência (Máximo): 38;Reserva de Vagas para PP (Mínimo 15%*): 11;Reserva de Vagas para PP (Máximo 27,2%*): 19
+Curso: Engenharia Elétrica (Integral);Total Vagas Regulares: 70;Total Vagas Vestibular Unicamp: 49;Ampla Concorrência (Mínimo): 30;Ampla Concorrência (Máximo): 38;Reserva de Vagas para PP (Mínimo 15%*): 11;Reserva de Vagas para PP (Máximo 27,2%*): 19
 
-Curso: Engenharia Elétrica (Noturno);Total Vagas Regulares: 30;Total Vagas VU: 21;Ampla Concorrência (Mínimo): 13;Ampla Concorrência (Máximo): 16;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 8
+Curso: Engenharia Elétrica (Noturno);Total Vagas Regulares: 30;Total Vagas Vestibular Unicamp: 21;Ampla Concorrência (Mínimo): 13;Ampla Concorrência (Máximo): 16;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 8
 
-Curso: Engenharia Mecânica (Integral);Total Vagas Regulares: 140;Total Vagas VU: 103;Ampla Concorrência (Mínimo): 65;Ampla Concorrência (Máximo): 82;Reserva de Vagas para PP (Mínimo 15%*): 21;Reserva de Vagas para PP (Máximo 27,2%*): 38
+Curso: Engenharia Mecânica (Integral);Total Vagas Regulares: 140;Total Vagas Vestibular Unicamp: 103;Ampla Concorrência (Mínimo): 65;Ampla Concorrência (Máximo): 82;Reserva de Vagas para PP (Mínimo 15%*): 21;Reserva de Vagas para PP (Máximo 27,2%*): 38
 
-Curso: Engenharia Química (Integral);Total Vagas Regulares: 60;Total Vagas VU: 45;Ampla Concorrência (Mínimo): 29;Ampla Concorrência (Máximo): 36;Reserva de Vagas para PP (Mínimo 15%*): 9;Reserva de Vagas para PP (Máximo 27,2%*): 16
+Curso: Engenharia Química (Integral);Total Vagas Regulares: 60;Total Vagas Vestibular Unicamp: 45;Ampla Concorrência (Mínimo): 29;Ampla Concorrência (Máximo): 36;Reserva de Vagas para PP (Mínimo 15%*): 9;Reserva de Vagas para PP (Máximo 27,2%*): 16
 
-Curso: Engenharia Química (Noturno);Total Vagas Regulares: 40;Total Vagas VU: 29;Ampla Concorrência (Mínimo): 18;Ampla Concorrência (Máximo): 23;Reserva de Vagas para PP (Mínimo 15%*): 6;Reserva de Vagas para PP (Máximo 27,2%*): 11
+Curso: Engenharia Química (Noturno);Total Vagas Regulares: 40;Total Vagas Vestibular Unicamp: 29;Ampla Concorrência (Mínimo): 18;Ampla Concorrência (Máximo): 23;Reserva de Vagas para PP (Mínimo 15%*): 6;Reserva de Vagas para PP (Máximo 27,2%*): 11
 
-Curso: Estatística (Integral);Total Vagas Regulares: 70;Total Vagas VU: 49;Ampla Concorrência (Mínimo): 30;Ampla Concorrência (Máximo): 38;Reserva de Vagas para PP (Mínimo 15%*): 11;Reserva de Vagas para PP (Máximo 27,2%*): 19
+Curso: Estatística (Integral);Total Vagas Regulares: 70;Total Vagas Vestibular Unicamp: 49;Ampla Concorrência (Mínimo): 30;Ampla Concorrência (Máximo): 38;Reserva de Vagas para PP (Mínimo 15%*): 11;Reserva de Vagas para PP (Máximo 27,2%*): 19
 
-Curso: Estudos Literários (Integral);Total Vagas Regulares: 20;Total Vagas VU: 16;Ampla Concorrência (Mínimo): 11;Ampla Concorrência (Máximo): 13;Reserva de Vagas para PP (Mínimo 15%*): 3;Reserva de Vagas para PP (Máximo 27,2%*): 5
+Curso: Estudos Literários (Integral);Total Vagas Regulares: 20;Total Vagas Vestibular Unicamp: 16;Ampla Concorrência (Mínimo): 11;Ampla Concorrência (Máximo): 13;Reserva de Vagas para PP (Mínimo 15%*): 3;Reserva de Vagas para PP (Máximo 27,2%*): 5
 
-Curso: Farmácia (Integral);Total Vagas Regulares: 40;Total Vagas VU: 32;Ampla Concorrência (Mínimo): 21;Ampla Concorrência (Máximo): 26;Reserva de Vagas para PP (Mínimo 15%*): 6;Reserva de Vagas para PP (Máximo 27,2%*): 11
+Curso: Farmácia (Integral);Total Vagas Regulares: 40;Total Vagas Vestibular Unicamp: 32;Ampla Concorrência (Mínimo): 21;Ampla Concorrência (Máximo): 26;Reserva de Vagas para PP (Mínimo 15%*): 6;Reserva de Vagas para PP (Máximo 27,2%*): 11
 
-Curso: Filosofia (Integral);Total Vagas Regulares: 30;Total Vagas VU: 24;Ampla Concorrência (Mínimo): 16;Ampla Concorrência (Máximo): 19;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 8
+Curso: Filosofia (Integral);Total Vagas Regulares: 30;Total Vagas Vestibular Unicamp: 24;Ampla Concorrência (Mínimo): 16;Ampla Concorrência (Máximo): 19;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 8
 
-Curso: Física - Licenciatura (Noturno);Total Vagas Regulares: 40;Total Vagas VU: 28;Ampla Concorrência (Mínimo): 17;Ampla Concorrência (Máximo): 22;Reserva de Vagas para PP (Mínimo 15%*): 6;Reserva de Vagas para PP (Máximo 27,2%*): 11
+Curso: Física - Licenciatura (Noturno);Total Vagas Regulares: 40;Total Vagas Vestibular Unicamp: 28;Ampla Concorrência (Mínimo): 17;Ampla Concorrência (Máximo): 22;Reserva de Vagas para PP (Mínimo 15%*): 6;Reserva de Vagas para PP (Máximo 27,2%*): 11
 
-Curso: Fonoaudiologia (Integral);Total Vagas Regulares: 30;Total Vagas VU: 22;Ampla Concorrência (Mínimo): 14;Ampla Concorrência (Máximo): 17;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 8
+Curso: Fonoaudiologia (Integral);Total Vagas Regulares: 30;Total Vagas Vestibular Unicamp: 22;Ampla Concorrência (Mínimo): 14;Ampla Concorrência (Máximo): 17;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 8
 
-Curso: Geografia (Integral);Total Vagas Regulares: 20;Total Vagas VU: 16;Ampla Concorrência (Mínimo): 11;Ampla Concorrência (Máximo): 13;Reserva de Vagas para PP (Mínimo 15%*): 3;Reserva de Vagas para PP (Máximo 27,2%*): 5
+Curso: Geografia (Integral);Total Vagas Regulares: 20;Total Vagas Vestibular Unicamp: 16;Ampla Concorrência (Mínimo): 11;Ampla Concorrência (Máximo): 13;Reserva de Vagas para PP (Mínimo 15%*): 3;Reserva de Vagas para PP (Máximo 27,2%*): 5
 
-Curso: Geografia (Noturno);Total Vagas Regulares: 30;Total Vagas VU: 24;Ampla Concorrência (Mínimo): 16;Ampla Concorrência (Máximo): 19;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 8
+Curso: Geografia (Noturno);Total Vagas Regulares: 30;Total Vagas Vestibular Unicamp: 24;Ampla Concorrência (Mínimo): 16;Ampla Concorrência (Máximo): 19;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 8
 
-Curso: Geologia (Integral);Total Vagas Regulares: 30;Total Vagas VU: 24;Ampla Concorrência (Mínimo): 16;Ampla Concorrência (Máximo): 19;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 8
+Curso: Geologia (Integral);Total Vagas Regulares: 30;Total Vagas Vestibular Unicamp: 24;Ampla Concorrência (Mínimo): 16;Ampla Concorrência (Máximo): 19;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 8
 
-Curso: História (Integral);Total Vagas Regulares: 40;Total Vagas VU: 32;Ampla Concorrência (Mínimo): 21;Ampla Concorrência (Máximo): 26;Reserva de Vagas para PP (Mínimo 15%*): 6;Reserva de Vagas para PP (Máximo 27,2%*): 11
+Curso: História (Integral);Total Vagas Regulares: 40;Total Vagas Vestibular Unicamp: 32;Ampla Concorrência (Mínimo): 21;Ampla Concorrência (Máximo): 26;Reserva de Vagas para PP (Mínimo 15%*): 6;Reserva de Vagas para PP (Máximo 27,2%*): 11
 
-Curso: Letras - Licenciatura (Integral);Total Vagas Regulares: 30;Total Vagas VU: 24;Ampla Concorrência (Mínimo): 16;Ampla Concorrência (Máximo): 19;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 8
+Curso: Letras - Licenciatura (Integral);Total Vagas Regulares: 30;Total Vagas Vestibular Unicamp: 24;Ampla Concorrência (Mínimo): 16;Ampla Concorrência (Máximo): 19;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 8
 
-Curso: Letras - Licenciatura (Noturno);Total Vagas Regulares: 30;Total Vagas VU: 24;Ampla Concorrência (Mínimo): 16;Ampla Concorrência (Máximo): 19;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 8
+Curso: Letras - Licenciatura (Noturno);Total Vagas Regulares: 30;Total Vagas Vestibular Unicamp: 24;Ampla Concorrência (Mínimo): 16;Ampla Concorrência (Máximo): 19;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 8
 
-Curso: Licenciatura Integrada Química/Física (Noturno);Total Vagas Regulares: 30;Total Vagas VU: 24;Ampla Concorrência (Mínimo): 16;Ampla Concorrência (Máximo): 19;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 8
+Curso: Licenciatura Integrada Química/Física (Noturno);Total Vagas Regulares: 30;Total Vagas Vestibular Unicamp: 24;Ampla Concorrência (Mínimo): 16;Ampla Concorrência (Máximo): 19;Reserva de Vagas para PP (Mínimo 15%*): 5;Reserva de Vagas para PP (Máximo 27,2%*): 8
 
-Curso: Linguística (Integral);Total Vagas Regulares: 20;Total Vagas VU: 16;Ampla Concorrência (Mínimo): 11;Ampla Concorrência (Máximo): 13;Reserva de Vagas para PP (Mínimo 15%*): 3;Reserva de Vagas para PP (Máximo 27,2%*): 5
+Curso: Linguística (Integral);Total Vagas Regulares: 20;Total Vagas Vestibular Unicamp: 16;Ampla Concorrência (Mínimo): 11;Ampla Concorrência (Máximo): 13;Reserva de Vagas para PP (Mínimo 15%*): 3;Reserva de Vagas para PP (Máximo 27,2%*): 5
 
-Curso: Matemática - Licenciatura (Noturno);Total Vagas Regulares: 70;Total Vagas VU: 49;Ampla Concorrência (Mínimo): 30;Ampla Concorrência (Máximo): 38;Reserva de Vagas para PP (Mínimo 15%*): 11;Reserva de Vagas para PP (Máximo 27,2%*): 19
+Curso: Matemática - Licenciatura (Noturno);Total Vagas Regulares: 70;Total Vagas Vestibular Unicamp: 49;Ampla Concorrência (Mínimo): 30;Ampla Concorrência (Máximo): 38;Reserva de Vagas para PP (Mínimo 15%*): 11;Reserva de Vagas para PP (Máximo 27,2%*): 19
 
-Curso: Medicina (Integral);Total Vagas Regulares: 110;Total Vagas VU: 86;Ampla Concorrência (Mínimo): 56;Ampla Concorrência (Máximo): 69;Reserva de Vagas para PP (Mínimo 15%*): 17;Reserva de Vagas para PP (Máximo 27,2%*): 30
+Curso: Medicina (Integral);Total Vagas Regulares: 110;Total Vagas Vestibular Unicamp: 86;Ampla Concorrência (Mínimo): 56;Ampla Concorrência (Máximo): 69;Reserva de Vagas para PP (Mínimo 15%*): 17;Reserva de Vagas para PP (Máximo 27,2%*): 30
 
-Curso: Música Erudita: Clarineta (Integral);Total Vagas Regulares: 3;Total Vagas VU: 3;Ampla Concorrência (Mínimo): 3;Ampla Concorrência (Máximo): 3;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
+Curso: Música Erudita: Clarineta (Integral);Total Vagas Regulares: 3;Total Vagas Vestibular Unicamp: 3;Ampla Concorrência (Mínimo): 3;Ampla Concorrência (Máximo): 3;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
 
-Curso: Música Erudita: Contrabaixo (Integral);Total Vagas Regulares: 2;Total Vagas VU: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
+Curso: Música Erudita: Contrabaixo (Integral);Total Vagas Regulares: 2;Total Vagas Vestibular Unicamp: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
 
-Curso: Música Erudita: Flauta (Integral);Total Vagas Regulares: 3;Total Vagas VU: 3;Ampla Concorrência (Mínimo): 3;Ampla Concorrência (Máximo): 3;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
+Curso: Música Erudita: Flauta (Integral);Total Vagas Regulares: 3;Total Vagas Vestibular Unicamp: 3;Ampla Concorrência (Mínimo): 3;Ampla Concorrência (Máximo): 3;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
 
-Curso: Música Erudita: Percussão (Integral);Total Vagas Regulares: 2;Total Vagas VU: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
+Curso: Música Erudita: Percussão (Integral);Total Vagas Regulares: 2;Total Vagas Vestibular Unicamp: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
 
-Curso: Música Erudita: Piano (Integral);Total Vagas Regulares: 3;Total Vagas VU: 3;Ampla Concorrência (Mínimo): 3;Ampla Concorrência (Máximo): 3;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
+Curso: Música Erudita: Piano (Integral);Total Vagas Regulares: 3;Total Vagas Vestibular Unicamp: 3;Ampla Concorrência (Mínimo): 3;Ampla Concorrência (Máximo): 3;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
 
-Curso: Música Erudita: Trombone (Integral);Total Vagas Regulares: 3;Total Vagas VU: 3;Ampla Concorrência (Mínimo): 3;Ampla Concorrência (Máximo): 3;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
+Curso: Música Erudita: Trombone (Integral);Total Vagas Regulares: 3;Total Vagas Vestibular Unicamp: 3;Ampla Concorrência (Mínimo): 3;Ampla Concorrência (Máximo): 3;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
 
-Curso: Música Erudita: Trompete (Integral);Total Vagas Regulares: 2;Total Vagas VU: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
+Curso: Música Erudita: Trompete (Integral);Total Vagas Regulares: 2;Total Vagas Vestibular Unicamp: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
 
-Curso: Música Erudita: Viola (Integral);Total Vagas Regulares: 2;Total Vagas VU: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
+Curso: Música Erudita: Viola (Integral);Total Vagas Regulares: 2;Total Vagas Vestibular Unicamp: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
 
-Curso: Música Erudita: Violão (Integral);Total Vagas Regulares: 2;Total Vagas VU: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
+Curso: Música Erudita: Violão (Integral);Total Vagas Regulares: 2;Total Vagas Vestibular Unicamp: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
 
-Curso: Música Erudita: Violino (Integral);Total Vagas Regulares: 2;Total Vagas VU: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
+Curso: Música Erudita: Violino (Integral);Total Vagas Regulares: 2;Total Vagas Vestibular Unicamp: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
 
-Curso: Música Erudita: Violoncelo (Integral);Total Vagas Regulares: 2;Total Vagas VU: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
+Curso: Música Erudita: Violoncelo (Integral);Total Vagas Regulares: 2;Total Vagas Vestibular Unicamp: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
 
-Curso: Música Erudita: Voz (Integral);Total Vagas Regulares: 2;Total Vagas VU: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
+Curso: Música Erudita: Voz (Integral);Total Vagas Regulares: 2;Total Vagas Vestibular Unicamp: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
 
-Curso: Música Popular: Bateria (Integral);Total Vagas Regulares: 2;Total Vagas VU: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
+Curso: Música Popular: Bateria (Integral);Total Vagas Regulares: 2;Total Vagas Vestibular Unicamp: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
 
-Curso: Música Popular: Contrabaixo (Integral);Total Vagas Regulares: 2;Total Vagas VU: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
+Curso: Música Popular: Contrabaixo (Integral);Total Vagas Regulares: 2;Total Vagas Vestibular Unicamp: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
 
-Curso: Música Popular: Guitarra (Integral);Total Vagas Regulares: 2;Total Vagas VU: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
+Curso: Música Popular: Guitarra (Integral);Total Vagas Regulares: 2;Total Vagas Vestibular Unicamp: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
 
-Curso: Música Popular: Piano (Integral);Total Vagas Regulares: 2;Total Vagas VU: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
+Curso: Música Popular: Piano (Integral);Total Vagas Regulares: 2;Total Vagas Vestibular Unicamp: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
 
-Curso: Música Popular: Saxofone (Integral);Total Vagas Regulares: 2;Total Vagas VU: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
+Curso: Música Popular: Saxofone (Integral);Total Vagas Regulares: 2;Total Vagas Vestibular Unicamp: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
 
-Curso: Música Popular: Violão (Integral);Total Vagas Regulares: 1;Total Vagas VU: 1;Ampla Concorrência (Mínimo): 1;Ampla Concorrência (Máximo): 1;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
+Curso: Música Popular: Violão (Integral);Total Vagas Regulares: 1;Total Vagas Vestibular Unicamp: 1;Ampla Concorrência (Mínimo): 1;Ampla Concorrência (Máximo): 1;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
 
-Curso: Música Popular: Voz (Integral);Total Vagas Regulares: 2;Total Vagas VU: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
+Curso: Música Popular: Voz (Integral);Total Vagas Regulares: 2;Total Vagas Vestibular Unicamp: 2;Ampla Concorrência (Mínimo): 2;Ampla Concorrência (Máximo): 2;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
 
-Curso: Música: Composição (Integral)**;Total Vagas Regulares: 5;Total Vagas VU: 5;Ampla Concorrência (Mínimo): 3;Ampla Concorrência (Máximo): 4;Reserva de Vagas para PP (Mínimo 15%*): 1;Reserva de Vagas para PP (Máximo 27,2%*): 2
+Curso: Música: Composição (Integral)**;Total Vagas Regulares: 5;Total Vagas Vestibular Unicamp: 5;Ampla Concorrência (Mínimo): 3;Ampla Concorrência (Máximo): 4;Reserva de Vagas para PP (Mínimo 15%*): 1;Reserva de Vagas para PP (Máximo 27,2%*): 2
 
-Curso: Música: Licenciatura (Integral)**;Total Vagas Regulares: 16;Total Vagas VU: 14;Ampla Concorrência (Mínimo): 8;Ampla Concorrência (Máximo): 10;Reserva de Vagas para PP (Mínimo 15%*): 4;Reserva de Vagas para PP (Máximo 27,2%*): 6
+Curso: Música: Licenciatura (Integral)**;Total Vagas Regulares: 16;Total Vagas Vestibular Unicamp: 14;Ampla Concorrência (Mínimo): 8;Ampla Concorrência (Máximo): 10;Reserva de Vagas para PP (Mínimo 15%*): 4;Reserva de Vagas para PP (Máximo 27,2%*): 6
 
-Curso: Música: Regência (Integral);Total Vagas Regulares: 3;Total Vagas VU: 3;Ampla Concorrência (Mínimo): 3;Ampla Concorrência (Máximo): 3;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
+Curso: Música: Regência (Integral);Total Vagas Regulares: 3;Total Vagas Vestibular Unicamp: 3;Ampla Concorrência (Mínimo): 3;Ampla Concorrência (Máximo): 3;Reserva de Vagas para PP (Mínimo 15%*): 0;Reserva de Vagas para PP (Máximo 27,2%*): 0
 
-Curso: Nutrição (Integral);Total Vagas Regulares: 60;Total Vagas VU: 46;Ampla Concorrência (Mínimo): 30;Ampla Concorrência (Máximo): 37;Reserva de Vagas para PP (Mínimo 15%*): 9;Reserva de Vagas para PP (Máximo 27,2%*): 16
+Curso: Nutrição (Integral);Total Vagas Regulares: 60;Total Vagas Vestibular Unicamp: 46;Ampla Concorrência (Mínimo): 30;Ampla Concorrência (Máximo): 37;Reserva de Vagas para PP (Mínimo 15%*): 9;Reserva de Vagas para PP (Máximo 27,2%*): 16
 
-Curso: Odontologia (Integral);Total Vagas Regulares: 80;Total Vagas VU: 60;Ampla Concorrência (Mínimo): 38;Ampla Concorrência (Máximo): 48;Reserva de Vagas para PP (Mínimo 15%*): 12;Reserva de Vagas para PP (Máximo 27,2%*): 22
+Curso: Odontologia (Integral);Total Vagas Regulares: 80;Total Vagas Vestibular Unicamp: 60;Ampla Concorrência (Mínimo): 38;Ampla Concorrência (Máximo): 48;Reserva de Vagas para PP (Mínimo 15%*): 12;Reserva de Vagas para PP (Máximo 27,2%*): 22
 
-Curso: Pedagogia - Licenciatura (Integral);Total Vagas Regulares: 45;Total Vagas VU: 36;Ampla Concorrência (Mínimo): 24;Ampla Concorrência (Máximo): 29;Reserva de Vagas para PP (Mínimo 15%*): 7;Reserva de Vagas para PP (Máximo 27,2%*): 12
+Curso: Pedagogia - Licenciatura (Integral);Total Vagas Regulares: 45;Total Vagas Vestibular Unicamp: 36;Ampla Concorrência (Mínimo): 24;Ampla Concorrência (Máximo): 29;Reserva de Vagas para PP (Mínimo 15%*): 7;Reserva de Vagas para PP (Máximo 27,2%*): 12
 
-Curso: Pedagogia - Licenciatura (Noturno);Total Vagas Regulares: 45;Total Vagas VU: 36;Ampla Concorrência (Mínimo): 24;Ampla Concorrência (Máximo): 29;Reserva de Vagas para PP (Mínimo 15%*): 7;Reserva de Vagas para PP (Máximo 27,2%*): 12
+Curso: Pedagogia - Licenciatura (Noturno);Total Vagas Regulares: 45;Total Vagas Vestibular Unicamp: 36;Ampla Concorrência (Mínimo): 24;Ampla Concorrência (Máximo): 29;Reserva de Vagas para PP (Mínimo 15%*): 7;Reserva de Vagas para PP (Máximo 27,2%*): 12
 
-Curso: Química (Integral);Total Vagas Regulares: 70;Total Vagas VU: 49;Ampla Concorrência (Mínimo): 30;Ampla Concorrência (Máximo): 38;Reserva de Vagas para PP (Mínimo 15%*): 11;Reserva de Vagas para PP (Máximo 27,2%*): 19
+Curso: Química (Integral);Total Vagas Regulares: 70;Total Vagas Vestibular Unicamp: 49;Ampla Concorrência (Mínimo): 30;Ampla Concorrência (Máximo): 38;Reserva de Vagas para PP (Mínimo 15%*): 11;Reserva de Vagas para PP (Máximo 27,2%*): 19
 
-Curso: Química Tecnológica (Noturno);Total Vagas Regulares: 40;Total Vagas VU: 28;Ampla Concorrência (Mínimo): 17;Ampla Concorrência (Máximo): 22;Reserva de Vagas para PP (Mínimo 15%*): 6;Reserva de Vagas para PP (Máximo 27,2%*): 11
+Curso: Química Tecnológica (Noturno);Total Vagas Regulares: 40;Total Vagas Vestibular Unicamp: 28;Ampla Concorrência (Mínimo): 17;Ampla Concorrência (Máximo): 22;Reserva de Vagas para PP (Mínimo 15%*): 6;Reserva de Vagas para PP (Máximo 27,2%*): 11
 
-Curso: Sistemas de Informação (Integral);Total Vagas Regulares: 50;Total Vagas VU: 33;Ampla Concorrência (Mínimo): 19;Ampla Concorrência (Máximo): 25;Reserva de Vagas para PP (Mínimo 15%*): 8;Reserva de Vagas para PP (Máximo 27,2%*): 14
+Curso: Sistemas de Informação (Integral);Total Vagas Regulares: 50;Total Vagas Vestibular Unicamp: 33;Ampla Concorrência (Mínimo): 19;Ampla Concorrência (Máximo): 25;Reserva de Vagas para PP (Mínimo 15%*): 8;Reserva de Vagas para PP (Máximo 27,2%*): 14
 
-Curso: Tecnologia em Análise e Desenvolvimento de Sistemas (Noturno);Total Vagas Regulares: 50;Total Vagas VU: 33;Ampla Concorrência (Mínimo): 19;Ampla Concorrência (Máximo): 25;Reserva de Vagas para PP (Mínimo 15%*): 8;Reserva de Vagas para PP (Máximo 27,2%*): 14
+Curso: Tecnologia em Análise e Desenvolvimento de Sistemas (Noturno);Total Vagas Regulares: 50;Total Vagas Vestibular Unicamp: 33;Ampla Concorrência (Mínimo): 19;Ampla Concorrência (Máximo): 25;Reserva de Vagas para PP (Mínimo 15%*): 8;Reserva de Vagas para PP (Máximo 27,2%*): 14
 
-Curso: Tecnologia em Saneamento Ambiental (Noturno);Total Vagas Regulares: 70;Total Vagas VU: 49;Ampla Concorrência (Mínimo): 30;Ampla Concorrência (Máximo): 38;Reserva de Vagas para PP (Mínimo 15%*): 11;Reserva de Vagas para PP (Máximo 27,2%*): 19
+Curso: Tecnologia em Saneamento Ambiental (Noturno);Total Vagas Regulares: 70;Total Vagas Vestibular Unicamp: 49;Ampla Concorrência (Mínimo): 30;Ampla Concorrência (Máximo): 38;Reserva de Vagas para PP (Mínimo 15%*): 11;Reserva de Vagas para PP (Máximo 27,2%*): 19
 
 Total Absoluto de Vagas Regulares: 3340, Total Absoluto de Vagas VU: 2537, Total Mínimo de Ampla Concorrência: 1633, Total Máximo de Ampla Concorrência: 2021, Total Mínimo de Reserva de Vagas para PP (15%*): 516, Total Máximo de Reserva de Vagas para PP (27,2%*): 904
 
