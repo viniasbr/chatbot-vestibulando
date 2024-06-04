@@ -134,6 +134,5 @@ if prompt := st.chat_input(placeholder="Faça uma pergunta",disabled= not st.ses
     with st.chat_message("user"):
         st.markdown(prompt)
     with st.chat_message("assistant"):
-        with st.spinner(""):
-            response = st.write_stream(response_generator(prompt))
+        response = st.write_stream(response_generator(prompt))
     st.session_state.messages.append({"role": "assistant", "content": response})
