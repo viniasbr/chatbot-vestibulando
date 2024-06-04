@@ -92,7 +92,7 @@ if st.session_state.is_key_valid:
             ]
         )
         st.session_state.history_aware_retriever = create_history_aware_retriever(
-            st.session_state.model, st.session_state.vectorstore.as_retriever(), contextualize_q_prompt
+            st.session_state.model, st.session_state.vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 8}), contextualize_q_prompt
         )
     if "conversational_rag_chain" not in st.session_state:
         qa_system_prompt = """You're the assistant for question-answering tasks specifically about \
