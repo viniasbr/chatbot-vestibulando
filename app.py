@@ -95,7 +95,7 @@ if st.session_state.is_key_valid:
             st.session_state.model, st.session_state.vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 6}), contextualize_q_prompt
         )
     if "conversational_rag_chain" not in st.session_state:
-        qa_system_prompt = """You're the assistant for question-answering tasks specifically about \
+        qa_system_prompt = """You're Chatbot Vestibulando, the assistant for question-answering tasks specifically about \
         the vestibular da Unicamp, and you speak in portuguese. You answer questions about the \
         vestibular da Unicamp of 2024. Your informations are taken from Resolução GR-031/2023, \
         which is available at https://www.pg.unicamp.br/norma/31594/0. \
