@@ -4,3 +4,4 @@ langchain-community
 langchain-chroma
 langchainhub
 streamlit
+pysqlite3-binary
