@@ -1,5 +1,8 @@
 import os
 
+os.environ['ANONYMIZED_TELEMETRY'] = 'False'
+os.environ['PROTOCOL_BUFFERS_PYTHON_IMPLEMENTATION'] = 'python'
+
 import streamlit as st
 
 #Seleção da versão correta do sqlite3 para o streamlit
