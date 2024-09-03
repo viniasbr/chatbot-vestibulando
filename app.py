@@ -69,7 +69,7 @@ if st.session_state.is_key_valid:
     if "vectorstore" not in st.session_state: #Carregar banco de dados vetorial para Retrieval e modelo de embeddings
         st.session_state.vectorstore = Chroma(persist_directory="./database/chroma_db", embedding_function=OpenAIEmbeddings())
     if "model" not in st.session_state: #Modelo de LLM
-        st.session_state.model = ChatOpenAI(model="gpt-3.5-turbo")
+        st.session_state.model = ChatOpenAI(model="gpt-4o-mini")
     if "store" not in st.session_state: #Dicionário para o histórico do chat para o LLM
         st.session_state.store = {}
     if "messages" not in st.session_state: #Lista para o histórico do chat visual
